@@ -94,3 +94,8 @@ h3 { font-size: 1.05rem; }
   .player.tall { margin: 0 auto; }
   .avatar { width: 76px; height: 76px; margin-top: -38px; }
 }
+.also { font-size: .9rem; color: var(--muted); margin-top: -.2em; }
+.also span { color: var(--ink); font-weight: 600; }
+.card .roman { margin: 0; color: var(--muted); font-size: .82rem; }
+.english { border-left: 3px solid var(--gold); padding-left: 14px; }
+.english h2 { margin-top: .6em; }
