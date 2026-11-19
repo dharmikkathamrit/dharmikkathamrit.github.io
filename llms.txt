@@ -5,6 +5,14 @@
 YouTube channel: https://www.youtube.com/@DharmikKathamrit
 All questions and answers in one file: https://dharmikkathamrit.github.io/llms-full.txt
 
+## सहारा, भजन और प्रार्थना (Sahara, Bhajan and Prarthna)
+
+- [सहारा, भजन और प्रार्थना: all videos](https://dharmikkathamrit.github.io/tyohar/bhajan/): सहारा: हर ज़रूरत के लिए एक छोटी प्रार्थना। नौकरी, परीक्षा, बीमारी, चिंता, नींद और घर की शांति के लिए गणेश जी, शिव जी, हनुमान जी, विष्णु जी, लक्ष्मी माता और शनि देव के भजन।
+- [मेहनत का फल, न्याय के लिए शनिदेव प्रार्थना #shanidev](https://dharmikkathamrit.github.io/katha/shani-mehnat-ka-phal-loop/): मेहनत करता बरसों से मैं, फल न मिला शनिदेव। सूरज पुत्र, छाया नंदन, न्याय करो शनिदेव॥ सच्चे मन से काम किया है, सफल करो पसीना। सिर ऊँचा कर घर लौटूँ मैं, चौड़ा हो ये सीना॥
+- [कर्ज़ से मुक्ति के लिए लक्ष्मी माँ की प्रार्थना #lakshmimaa](https://dharmikkathamrit.github.io/katha/lakshmi-karz-loop/): कर्ज़ का बोझ, घटे न पैसा, नींद न आए रातें। कमल पे बैठी लक्ष्मी मैया, सुन लो मन की बातें॥ कर्ज़ हमारा उतरे मैया, घर में बरकत आए। चैन की रोटी, सुख का चूल्हा, कोई भूखा न जाए॥
+- [परिवार में प्रेम बना रहे, विष्णु जी की आरती #vishnubhajan](https://dharmikkathamrit.github.io/katha/vishnu-parivar-loop/): घर में सब रूठे-रूठे हैं, कोई न बोले भाई। जय जय जगदीश हरि स्वामी, आरती तेरी गाई॥ रूठे मन को फिर से जोड़ो, प्रेम की धारा बहे। मिलकर हँसें, गले लगें सब, घर में खुशियाँ रहें॥
+- [नई नौकरी, नए काम से पहले गणेश जी की प्रार्थना #ganeshbhajan](https://dharmikkathamrit.github.io/katha/ganesh-nai-naukri-loop/): नई नौकरी, नया काम है, पहला कदम उठाया। गणपति बप्पा मोरया, पहले तुम्हें बुलाया॥ राह के सारे काँटे हर लो, खोल दो हर द्वारा। हर दिन नई तरक्की लाए, चमके भाग्य हमारा॥
+
 ## कार्तिक मास (Kartik Maas)
 
 - [कार्तिक मास: all videos](https://dharmikkathamrit.github.io/tyohar/kartik-maas/): कार्तिक मास की कथाएँ, कार्तिक महात्म्य के अध्याय, नियम और पूजा विधि। कार्तिक स्नान, तुलसी पूजा और दीपदान का महीना।
@@ -34,7 +42,6 @@ All questions and answers in one file: https://dharmikkathamrit.github.io/llms-f
 ## दीपावली (Diwali)
 
 - [दीपावली: all videos](https://dharmikkathamrit.github.io/tyohar/diwali/): धनतेरस से भाई दूज तक, दीपावली के पाँचों दिनों की कथाएँ, तिथि, शुभ समय और लक्ष्मी पूजन विधि।
-- [कर्ज़ से मुक्ति के लिए लक्ष्मी माँ की प्रार्थना #lakshmimaa](https://dharmikkathamrit.github.io/katha/lakshmi-karz-loop/): कर्ज़ का बोझ, घटे न पैसा, नींद न आए रातें। कमल पे बैठी लक्ष्मी मैया, सुन लो मन की बातें॥ कर्ज़ हमारा उतरे मैया, घर में बरकत आए। चैन की रोटी, सुख का चूल्हा, कोई भूखा न जाए॥
 - [भाई दूज तिलक का शुभ मुहूर्त 11 नवंबर 2026](https://dharmikkathamrit.github.io/katha/bhai-dooj-tilak-vidhi/): भाई दूज 2026 (बुधवार, 11 नवंबर) तिलक का शुभ समय दोपहर 1:26 से 3:20 (अपराह्न 1:10 से 3:20, राहु काल 12:05 से 1:26 के बाद; द्रिक पंचांग, नई दिल्ली)। विधि: स्नान और संकल्प, भाई को घर बुलाएँ, थाली सजाएँ, रोली का तिलक और अक्ष
 - [भाई दूज पर भाई की आरती कैसे करें? पारंपरिक विधि और समय](https://dharmikkathamrit.github.io/katha/bhai-dooj-aarti-vidhi/): भाई दूज 2026 (बुधवार, 11 नवंबर) पर भाई की आरती: भाई को आसन पर बिठाएँ, थाली में घी का दीया, रोली, अक्षत और मिठाई; तिलक और कलावा के बाद थाली दोनों हाथों से घड़ी की दिशा में घुमाएँ, मन में भाई की लंबी उम्र की प्रार्थना; फिर
 - [जय जय गिरिराज, गिरिराज धरण की जय #giriraj #govardhanpuja](https://dharmikkathamrit.github.io/katha/giriraj-jaykara-loop/): जय जय गिरिराज, गिरिराज धरण की जय। Jai jai Giriraj, Giriraj Dharan ki jai.
@@ -99,13 +106,6 @@ All questions and answers in one file: https://dharmikkathamrit.github.io/llms-f
 - [छठ पूजा क्यों मनाई जाती है? छठी मैया ने मृत पुत्र को दिया जीवनदान](https://dharmikkathamrit.github.io/katha/chhath-priyavrat-katha/): छठी मैया ने राजा प्रियव्रत के मृत पुत्र को फिर से जीवन दिया, इसीलिए छठ पर माता षष्ठी की पूजा संतान की रक्षा के लिए होती है। राजा प्रियव्रत और रानी मालिनी वर्षों से संतान के लिए तरस रहे थे। महर्षि कश्यप के आशीर्वाद से पुत
 - [काँच ही बाँस के बहंगिया, बहंगी लचकत जाय #chhathpuja #chhathgeet](https://dharmikkathamrit.github.io/katha/chhath-kaanch-hi-baans-loop/): काँच ही बाँस के बहंगिया, जय छठी मइया, बहंगी लचकत जाय, जय छठी मइया। उग हो सूरज देव, जय छठी मइया, भइल अरघ के बेर, जय छठी मइया। Kaanch hi baans ke bahangiya, bahangi lachkat jaay. Ug ho Suraj Dev, bhail aragh ke ber.
 - [छठी मैया की कथा जल्द आ रही है 🙏 Chhath Puja Katha 2026 #chhathpuja](https://dharmikkathamrit.github.io/katha/chhath-katha-teaser/): राजा प्रियव्रत के पुत्र को षष्ठी देवी ने कैसे जीवन दिया, और छठ का व्रत संतान की लंबी उम्र के लिए क्यों रखा जाता है, पूरी कथा पूजा विधि के साथ। Chhath Puja ki katha coming soon. Chhathi Maiya ki kahani, Chhath vrat katha 
-
-## भजन और प्रार्थना (Bhajans and Prayers)
-
-- [भजन और प्रार्थना: all videos](https://dharmikkathamrit.github.io/tyohar/bhajan/): गणेश जी, शिव जी, हनुमान जी, विष्णु जी, लक्ष्मी माता और शनि देव के छोटे भजन, हर ज़रूरत के लिए एक प्रार्थना।
-- [मेहनत का फल, न्याय के लिए शनिदेव प्रार्थना #shanidev](https://dharmikkathamrit.github.io/katha/shani-mehnat-ka-phal-loop/): मेहनत करता बरसों से मैं, फल न मिला शनिदेव। सूरज पुत्र, छाया नंदन, न्याय करो शनिदेव॥ सच्चे मन से काम किया है, सफल करो पसीना। सिर ऊँचा कर घर लौटूँ मैं, चौड़ा हो ये सीना॥
-- [परिवार में प्रेम बना रहे, विष्णु जी की आरती #vishnubhajan](https://dharmikkathamrit.github.io/katha/vishnu-parivar-loop/): घर में सब रूठे-रूठे हैं, कोई न बोले भाई। जय जय जगदीश हरि स्वामी, आरती तेरी गाई॥ रूठे मन को फिर से जोड़ो, प्रेम की धारा बहे। मिलकर हँसें, गले लगें सब, घर में खुशियाँ रहें॥
-- [नई नौकरी, नए काम से पहले गणेश जी की प्रार्थना #ganeshbhajan](https://dharmikkathamrit.github.io/katha/ganesh-nai-naukri-loop/): नई नौकरी, नया काम है, पहला कदम उठाया। गणपति बप्पा मोरया, पहले तुम्हें बुलाया॥ राह के सारे काँटे हर लो, खोल दो हर द्वारा। हर दिन नई तरक्की लाए, चमके भाग्य हमारा॥
 
 ## Optional
 
