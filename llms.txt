@@ -1,9 +1,8 @@
 # धार्मिक कथामृत (Dharmik Kathamrit)
 
-> Hindi devotional YouTube channel: full vrat kathas, festival dates and auspicious times, puja vidhi and fasting rules, told by a calm narrator. Each page below has the video, a short answer, and the full katha as text.
+> Hindi devotional YouTube channel: full vrat kathas, festival dates and auspicious times, puja vidhi and fasting rules, told by a calm narrator. Each page below has the video and a short answer; the katha itself is in the video.
 
 YouTube channel: https://www.youtube.com/@DharmikKathamrit
-All questions and answers in one file: https://dharmikkathamrit.github.io/llms-full.txt
 
 ## सहारा, भजन और प्रार्थना (Sahara, Bhajan and Prarthna)
 

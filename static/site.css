@@ -99,3 +99,6 @@ h3 { font-size: 1.05rem; }
 .card .roman { margin: 0; color: var(--muted); font-size: .82rem; }
 .english { border-left: 3px solid var(--gold); padding-left: 14px; }
 .english h2 { margin-top: .6em; }
+.also ul.asked { margin: .3em 0 0; padding-left: 1.2em; }
+.also ul.asked a { color: var(--ink); }
+.teaser .btn { background: var(--saffron); border-color: var(--saffron); color: var(--accent-ink); font-weight: 600; }
