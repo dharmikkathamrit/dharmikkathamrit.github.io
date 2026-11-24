@@ -102,3 +102,4 @@ h3 { font-size: 1.05rem; }
 .also ul.asked { margin: .3em 0 0; padding-left: 1.2em; }
 .also ul.asked a { color: var(--ink); }
 .teaser .btn { background: var(--saffron); border-color: var(--saffron); color: var(--accent-ink); font-weight: 600; }
+.site-foot .cav{font-size:13px;opacity:.85}

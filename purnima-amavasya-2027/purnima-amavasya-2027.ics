@@ -1,0 +1,444 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dharmik Kathamrit//purnima-amavasya-2027.ics//HI
+CALSCALE:GREGORIAN
+X-WR-CALNAME:2027 पूर्णिमा और अमावस्या,
+  धार्मिक कथामृत
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-01-07-5e79d049@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:पौष अमावस्या
+DESCRIPTION:पौष अमावस्या। कथा: https://www.yo
+ utube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
+ के अनुसार, अपने स्थानीय पंचा
+ ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
+ o/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल पौष अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-01-22-139436c9@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:पौष पूर्णिमा
+DESCRIPTION:पौष पूर्णिमा। कथा: https://youtu.
+ be/y5a83RLljYQ\nद्रिक पंचांग के अनुसा
+ र, अपने स्थानीय पंचांग से मि
+ ला लें।\nhttps://dharmikkathamrit.github.io/purnima-amavasya-2
+ 027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल पौष पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-02-06-df5086f8@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:मौनी अमावस्या
+DESCRIPTION:मौनी अमावस्या। कथा: https://www
+ .youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल मौनी अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-02-20-d2f10b96@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:माघ पूर्णिमा
+DESCRIPTION:माघ पूर्णिमा। कथा: https://youtu.
+ be/y5a83RLljYQ\nद्रिक पंचांग के अनुसा
+ र, अपने स्थानीय पंचांग से मि
+ ला लें।\nhttps://dharmikkathamrit.github.io/purnima-amavasya-2
+ 027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल माघ पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-03-08-0119adf0@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:सोमवती अमावस्या
+DESCRIPTION:सोमवती अमावस्या (दर्श अ
+ मावस्या 7 मार्च)। कथा: https://www.youtube
+ .com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग क
+ े अनुसार, अपने स्थानीय पंचां
+ ग से मिला लें।\nhttps://dharmikkathamrit.github.io/p
+ urnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल सोमवती अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-03-22-34aa165e@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:फाल्गुन पूर्णिमा
+DESCRIPTION:फाल्गुन पूर्णिमा। कथा: ht
+ tps://youtu.be/y5a83RLljYQ\nद्रिक पंचांग के अ
+ नुसार, अपने स्थानीय पंचांग स
+ े मिला लें।\nhttps://dharmikkathamrit.github.io/purnima-
+ amavasya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल फाल्गुन पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-04-06-50128484@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:चैत्र अमावस्या
+DESCRIPTION:चैत्र अमावस्या। कथा: https://
+ www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचा
+ ंग के अनुसार, अपने स्थानीय प
+ ंचांग से मिला लें।\nhttps://dharmikkathamrit
+ .github.io/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल चैत्र अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-04-20-2604f443@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:चैत्र पूर्णिमा
+DESCRIPTION:चैत्र पूर्णिमा। कथा: https://
+ youtu.be/y5a83RLljYQ\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/purnima-amav
+ asya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल चैत्र पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-05-06-682a2783@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:वैशाख अमावस्या
+DESCRIPTION:वैशाख अमावस्या। कथा: https://
+ www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचा
+ ंग के अनुसार, अपने स्थानीय प
+ ंचांग से मिला लें।\nhttps://dharmikkathamrit
+ .github.io/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल वैशाख अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-05-20-2261919c@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:वैशाख पूर्णिमा
+DESCRIPTION:वैशाख पूर्णिमा। कथा: https://
+ youtu.be/y5a83RLljYQ\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/purnima-amav
+ asya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल वैशाख पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-06-04-29a3f603@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:ज्येष्ठ अमावस्या
+DESCRIPTION:ज्येष्ठ अमावस्या (वट सा
+ वित्री, शनि जयंती)। कथा: https://www.y
+ outube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग
+  के अनुसार, अपने स्थानीय पंच
+ ांग से मिला लें।\nhttps://dharmikkathamrit.githu
+ b.io/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल ज्येष्ठ अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-06-18-547d8bd1@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:ज्येष्ठ पूर्णिमा
+DESCRIPTION:ज्येष्ठ पूर्णिमा। कथा: ht
+ tps://youtu.be/y5a83RLljYQ\nद्रिक पंचांग के अ
+ नुसार, अपने स्थानीय पंचांग स
+ े मिला लें।\nhttps://dharmikkathamrit.github.io/purnima-
+ amavasya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल ज्येष्ठ पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-07-03-e247f4d0@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:आषाढ़ अमावस्या
+DESCRIPTION:आषाढ़ अमावस्या (4 जुलाई भ
+ ी)। कथा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\n
+ द्रिक पंचांग के अनुसार, अपने
+  स्थानीय पंचांग से मिला लें।
+ \nhttps://dharmikkathamrit.github.io/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल आषाढ़ अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-07-18-44e3afa0@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:आषाढ़ पूर्णिमा
+DESCRIPTION:आषाढ़ पूर्णिमा (गुरु पू
+ र्णिमा)। कथा: https://youtu.be/y5a83RLljYQ\nद्र
+ िक पंचांग के अनुसार, अपने स्
+ थानीय पंचांग से मिला लें।\nhttps
+ ://dharmikkathamrit.github.io/purnima-amavasya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल आषाढ़ पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-08-02-a572d32f@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:हरियाली अमावस्या
+DESCRIPTION:हरियाली अमावस्या (सोमवत
+ ी भी)। कथा: https://www.youtube.com/playlist?list=PLFDj_sNgD
+ pz0\nद्रिक पंचांग के अनुसार, अप
+ ने स्थानीय पंचांग से मिला ले
+ ं।\nhttps://dharmikkathamrit.github.io/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल हरियाली अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-08-17-4ef60b03@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:श्रावण पूर्णिमा
+DESCRIPTION:श्रावण पूर्णिमा (व्रत 16 
+ अगस्त)। कथा: https://youtu.be/y5a83RLljYQ\nद्रि
+ क पंचांग के अनुसार, अपने स्थ
+ ानीय पंचांग से मिला लें।\nhttps://
+ dharmikkathamrit.github.io/purnima-amavasya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल श्रावण पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-09-15-d714e8f3@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:भाद्रपद पूर्णिमा
+DESCRIPTION:भाद्रपद पूर्णिमा। कथा: ht
+ tps://youtu.be/y5a83RLljYQ\nद्रिक पंचांग के अ
+ नुसार, अपने स्थानीय पंचांग स
+ े मिला लें।\nhttps://dharmikkathamrit.github.io/purnima-
+ amavasya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल भाद्रपद पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-09-29-10c7013e@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:सर्व पितृ अमावस्या
+DESCRIPTION:सर्व पितृ अमावस्या (30 सि
+ तंबर भी)। कथा: https://www.youtube.com/playlist?list=P
+ LFDj_sNgDpz0\nद्रिक पंचांग के अनुसार
+ , अपने स्थानीय पंचांग से मिल
+ ा लें।\nhttps://dharmikkathamrit.github.io/purnima-amavasya-2027
+ /
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल सर्व पितृ अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-10-14-be8f13be@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:शरद पूर्णिमा
+DESCRIPTION:शरद पूर्णिमा (आश्विन पू
+ र्णिमा 15 अक्टूबर)। कथा: https://youtu.b
+ e/y5a83RLljYQ\nद्रिक पंचांग के अनुसा
+ र, अपने स्थानीय पंचांग से मि
+ ला लें।\nhttps://dharmikkathamrit.github.io/purnima-amavasya-2
+ 027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल शरद पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-10-29-e1520835@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:कार्तिक अमावस्या
+DESCRIPTION:कार्तिक अमावस्या (दिवाल
+ ी)। कथा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\n
+ द्रिक पंचांग के अनुसार, अपने
+  स्थानीय पंचांग से मिला लें।
+ \nhttps://dharmikkathamrit.github.io/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल कार्तिक अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-11-14-390a78b0@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:कार्तिक पूर्णिमा
+DESCRIPTION:कार्तिक पूर्णिमा (व्रत 13
+  नवंबर)। कथा: https://youtu.be/y5a83RLljYQ\nद्रि
+ क पंचांग के अनुसार, अपने स्थ
+ ानीय पंचांग से मिला लें।\nhttps://
+ dharmikkathamrit.github.io/purnima-amavasya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल कार्तिक पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-11-27-698a8990@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:मार्गशीर्ष अमावस्या
+DESCRIPTION:मार्गशीर्ष अमावस्या (28 न
+ वंबर भी)। कथा: https://www.youtube.com/playlist?list=P
+ LFDj_sNgDpz0\nद्रिक पंचांग के अनुसार
+ , अपने स्थानीय पंचांग से मिल
+ ा लें।\nhttps://dharmikkathamrit.github.io/purnima-amavasya-2027
+ /
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल मार्गशीर्ष अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-12-13-a2c2d64f@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+SUMMARY:मार्गशीर्ष पूर्णिमा
+DESCRIPTION:मार्गशीर्ष पूर्णिमा। क
+ था: https://youtu.be/y5a83RLljYQ\nद्रिक पंचांग 
+ के अनुसार, अपने स्थानीय पंचा
+ ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
+ o/purnima-amavasya-2027/
+URL:https://youtu.be/y5a83RLljYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल मार्गशीर्ष पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-purnima-2027-2027-12-27-5e79d049@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:पौष अमावस्या
+DESCRIPTION:पौष अमावस्या (सोमवती भी)
+ । कथा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्
+ रिक पंचांग के अनुसार, अपने स
+ ्थानीय पंचांग से मिला लें।\nht
+ tps://dharmikkathamrit.github.io/purnima-amavasya-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल पौष अमावस्या
+END:VALARM
+END:VEVENT
+END:VCALENDAR

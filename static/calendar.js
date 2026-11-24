@@ -1,7 +1,7 @@
 // Ticks live only in this browser (localStorage), so a reader's own year stays theirs without any sign-in.
 // Storage can be blocked in a private window; the page then still works, it just forgets on reload.
 (() => {
-  const KEY = "dk-ekadashi-2027";
+  const KEY = document.querySelector(".cal").dataset.key; // one store per calendar page
   let done = new Set();
   try { done = new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch (_) {}
   const tiles = [...document.querySelectorAll(".cal .t")];
@@ -30,7 +30,7 @@
     const p = document.getElementById("next");
     const name = next.querySelector(".n").firstChild.textContent;
     const month = next.closest(".mc").querySelector("h2").textContent;
-    p.textContent = `अगली एकादशी: ${next.querySelector(".d").textContent} ${month}, ${name}`;
+    p.textContent = `${document.querySelector(".cal").dataset.next}: ${next.querySelector(".d").textContent} ${month}, ${name}`;
     p.hidden = false;
   }
   paint();

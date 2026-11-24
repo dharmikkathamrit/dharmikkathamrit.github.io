@@ -1,0 +1,794 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dharmik Kathamrit//tyohar-2027.ics//HI
+CALSCALE:GREGORIAN
+X-WR-CALNAME:2027 त्योहार, धार्मिक कथाम
+ ृत
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-01-14-590300c5@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:लोहड़ी
+DESCRIPTION:लोहड़ी। कथा: https://www.youtube.com/playli
+ st?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल लोहड़ी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-01-15-0d749e5f@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:मकर संक्रांति
+DESCRIPTION:मकर संक्रांति। कथा: https://www
+ .youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल मकर संक्रांति
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-02-06-df5086f8@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:मौनी अमावस्या
+DESCRIPTION:मौनी अमावस्या। कथा: https://www
+ .youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल मौनी अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-02-11-6adcda70@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:बसंत पंचमी
+DESCRIPTION:बसंत पंचमी। कथा: https://www.youtube.
+ com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के
+  अनुसार, अपने स्थानीय पंचांग
+  से मिला लें।\nhttps://dharmikkathamrit.github.io/tyoh
+ ar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल बसंत पंचमी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-03-06-97a0b2d2@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:महाशिवरात्रि
+DESCRIPTION:महाशिवरात्रि। कथा: https://www.
+ youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल महाशिवरात्रि
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-03-21-dead7fbc@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:होलिका दहन
+DESCRIPTION:होलिका दहन। कथा: https://www.youtube.
+ com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के
+  अनुसार, अपने स्थानीय पंचांग
+  से मिला लें।\nhttps://dharmikkathamrit.github.io/tyoh
+ ar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल होलिका दहन
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-03-22-3ead60e4@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:होली
+DESCRIPTION:होली। कथा: https://www.youtube.com/playlist?lis
+ t=PLFDj_sNgDpz0\nद्रिक पंचांग के अनुसा
+ र, अपने स्थानीय पंचांग से मि
+ ला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल होली
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-04-07-f070013f@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:चैत्र नवरात्रि आरंभ
+DESCRIPTION:चैत्र नवरात्रि आरंभ। कथ
+ ा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक 
+ पंचांग के अनुसार, अपने स्थान
+ ीय पंचांग से मिला लें।\nhttps://dharmi
+ kkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल चैत्र नवरात्रि आरंभ
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-04-15-12c0b105@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:राम नवमी
+DESCRIPTION:राम नवमी। कथा: https://www.youtube.com/pl
+ aylist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अ
+ नुसार, अपने स्थानीय पंचांग स
+ े मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2
+ 027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल राम नवमी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-04-20-0b2e4cb1@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:हनुमान जयंती
+DESCRIPTION:हनुमान जयंती (कुछ प्रदे
+ शों में अलग तिथि)। कथा: https://www.yout
+ ube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
+ के अनुसार, अपने स्थानीय पंचा
+ ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
+ o/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल हनुमान जयंती
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-05-09-00584dbe@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:अक्षय तृतीया
+DESCRIPTION:अक्षय तृतीया। कथा: https://www.yo
+ utube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
+ के अनुसार, अपने स्थानीय पंचा
+ ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
+ o/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल अक्षय तृतीया
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-06-04-28cde664@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:वट सावित्री व्रत
+DESCRIPTION:वट सावित्री व्रत (वट पूर
+ ्णिमा 18 जून)। कथा: https://www.youtube.com/playli
+ st?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल वट सावित्री व्रत
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-06-13-b2b09038@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:गंगा दशहरा
+DESCRIPTION:गंगा दशहरा। कथा: https://www.youtube.
+ com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के
+  अनुसार, अपने स्थानीय पंचांग
+  से मिला लें।\nhttps://dharmikkathamrit.github.io/tyoh
+ ar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल गंगा दशहरा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-06-14-bd3d9204@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:निर्जला एकादशी
+DESCRIPTION:निर्जला एकादशी। कथा: https://
+ youtu.be/rd-LpisaUpE\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://youtu.be/rd-LpisaUpE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल निर्जला एकादशी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-07-05-f4657def@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:जगन्नाथ रथ यात्रा
+DESCRIPTION:जगन्नाथ रथ यात्रा। कथा: h
+ ttps://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पं
+ चांग के अनुसार, अपने स्थानीय
+  पंचांग से मिला लें।\nhttps://dharmikkatha
+ mrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल जगन्नाथ रथ यात्रा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-07-14-5a61f9d1@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:देवशयनी एकादशी
+DESCRIPTION:देवशयनी एकादशी। कथा: https://
+ youtu.be/rd-LpisaUpE\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://youtu.be/rd-LpisaUpE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल देवशयनी एकादशी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-07-18-faf8dcdd@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:गुरु पूर्णिमा
+DESCRIPTION:गुरु पूर्णिमा। कथा: https://www
+ .youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल गुरु पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-07-19-b7786dab@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:सावन आरंभ
+DESCRIPTION:सावन आरंभ (उत्तर भारत)। क
+ था: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रि
+ क पंचांग के अनुसार, अपने स्थ
+ ानीय पंचांग से मिला लें।\nhttps://
+ dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल सावन आरंभ
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-08-04-91c45f5f@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:हरियाली तीज
+DESCRIPTION:हरियाली तीज। कथा: https://www.youtu
+ be.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग क
+ े अनुसार, अपने स्थानीय पंचां
+ ग से मिला लें।\nhttps://dharmikkathamrit.github.io/t
+ yohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल हरियाली तीज
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-08-06-0594909f@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:नाग पंचमी
+DESCRIPTION:नाग पंचमी (कुछ प्रदेशों 
+ में अलग तिथि)। कथा: https://www.youtube.com/pl
+ aylist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अ
+ नुसार, अपने स्थानीय पंचांग स
+ े मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2
+ 027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल नाग पंचमी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-08-17-99913058@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:रक्षा बंधन
+DESCRIPTION:रक्षा बंधन। कथा: https://www.youtube.
+ com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के
+  अनुसार, अपने स्थानीय पंचांग
+  से मिला लें।\nhttps://dharmikkathamrit.github.io/tyoh
+ ar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल रक्षा बंधन
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-08-25-60a7de9d@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:जन्माष्टमी
+DESCRIPTION:जन्माष्टमी (केरल में 24 अ
+ गस्त)। कथा: https://www.youtube.com/playlist?list=PLFDj_sN
+ gDpz0\nद्रिक पंचांग के अनुसार, अ
+ पने स्थानीय पंचांग से मिला ल
+ ें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल जन्माष्टमी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-09-03-4a0fc158@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:हरतालिका तीज
+DESCRIPTION:हरतालिका तीज। कथा: https://www.yo
+ utube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
+ के अनुसार, अपने स्थानीय पंचा
+ ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
+ o/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल हरतालिका तीज
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-09-04-5020aae3@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:गणेश चतुर्थी
+DESCRIPTION:गणेश चतुर्थी। कथा: https://www.yo
+ utube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
+ के अनुसार, अपने स्थानीय पंचा
+ ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
+ o/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल गणेश चतुर्थी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-09-14-067ca655@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:अनंत चतुर्दशी
+DESCRIPTION:अनंत चतुर्दशी। कथा: https://www
+ .youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल अनंत चतुर्दशी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-09-16-80bc581f@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:पितृ पक्ष आरंभ
+DESCRIPTION:पितृ पक्ष आरंभ। कथा: https://ww
+ w.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल पितृ पक्ष आरंभ
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-09-29-10c7013e@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:सर्व पितृ अमावस्या
+DESCRIPTION:सर्व पितृ अमावस्या। कथा
+ : https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक प
+ ंचांग के अनुसार, अपने स्थानी
+ य पंचांग से मिला लें।\nhttps://dharmikka
+ thamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल सर्व पितृ अमावस्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-09-30-1ba1e3e8@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:शारदीय नवरात्रि आरंभ
+DESCRIPTION:शारदीय नवरात्रि आरंभ। क
+ था: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रि
+ क पंचांग के अनुसार, अपने स्थ
+ ानीय पंचांग से मिला लें।\nhttps://
+ dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल शारदीय नवरात्रि आरंभ
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-07-8546d2f6@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:दुर्गा अष्टमी
+DESCRIPTION:दुर्गा अष्टमी। कथा: https://www
+ .youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल दुर्गा अष्टमी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-09-1ab2925a@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:दशहरा
+DESCRIPTION:दशहरा (बंगाल और मैसूर मे
+ ं 10 अक्टूबर)। कथा: https://www.youtube.com/playli
+ st?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल दशहरा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-14-be8f13be@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:शरद पूर्णिमा
+DESCRIPTION:शरद पूर्णिमा (आश्विन पू
+ र्णिमा 15 अक्टूबर)। कथा: https://www.you
+ tube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
+ के अनुसार, अपने स्थानीय पंचा
+ ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
+ o/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल शरद पूर्णिमा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-18-7ff88c5c@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+SUMMARY:करवा चौथ
+DESCRIPTION:करवा चौथ। कथा: https://www.youtube.com/pl
+ aylist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अ
+ नुसार, अपने स्थानीय पंचांग स
+ े मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2
+ 027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल करवा चौथ
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-22-b01acc47@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:अहोई अष्टमी
+DESCRIPTION:अहोई अष्टमी। कथा: https://www.youtu
+ be.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग क
+ े अनुसार, अपने स्थानीय पंचां
+ ग से मिला लें।\nhttps://dharmikkathamrit.github.io/t
+ yohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल अहोई अष्टमी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-27-d04b8c4c@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:धनतेरस
+DESCRIPTION:धनतेरस। कथा: https://www.youtube.com/playli
+ st?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल धनतेरस
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-28-592fb66b@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:नरक चतुर्दशी
+DESCRIPTION:नरक चतुर्दशी (काली चौदस 2
+ 7 अक्टूबर)। कथा: https://www.youtube.com/playlist?li
+ st=PLFDj_sNgDpz0\nद्रिक पंचांग के अनुस
+ ार, अपने स्थानीय पंचांग से म
+ िला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल नरक चतुर्दशी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-29-1081beb2@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:दिवाली
+DESCRIPTION:दिवाली। कथा: https://youtu.be/jYeWGfr2y00\n
+ द्रिक पंचांग के अनुसार, अपने
+  स्थानीय पंचांग से मिला लें।
+ \nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://youtu.be/jYeWGfr2y00
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल दिवाली
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-30-9a44e5b0@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:गोवर्धन पूजा
+DESCRIPTION:गोवर्धन पूजा। कथा: https://www.yo
+ utube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
+ के अनुसार, अपने स्थानीय पंचा
+ ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
+ o/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल गोवर्धन पूजा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-10-31-02676c87@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:भाई दूज
+DESCRIPTION:भाई दूज। कथा: https://www.youtube.com/playl
+ ist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अन
+ ुसार, अपने स्थानीय पंचांग से
+  मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027
+ /
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल भाई दूज
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-11-04-f01e3c14@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:छठ पूजा
+DESCRIPTION:छठ पूजा। कथा: https://youtu.be/B8k3o5IxVqQ\
+ nद्रिक पंचांग के अनुसार, अपन
+ े स्थानीय पंचांग से मिला लें
+ ।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://youtu.be/B8k3o5IxVqQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल छठ पूजा
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-11-10-4e5dde82@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:देवउठनी एकादशी
+DESCRIPTION:देवउठनी एकादशी। कथा: https://
+ youtu.be/rd-LpisaUpE\nद्रिक पंचांग के अनु
+ सार, अपने स्थानीय पंचांग से 
+ मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://youtu.be/rd-LpisaUpE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल देवउठनी एकादशी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-11-11-8505738b@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:तुलसी विवाह
+DESCRIPTION:तुलसी विवाह। कथा: https://www.youtu
+ be.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग क
+ े अनुसार, अपने स्थानीय पंचां
+ ग से मिला लें।\nhttps://dharmikkathamrit.github.io/t
+ yohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल तुलसी विवाह
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-11-13-7035a878@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:देव दीपावली
+DESCRIPTION:देव दीपावली (कार्तिक पू
+ र्णिमा 14 नवंबर)। कथा: https://www.youtube.c
+ om/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के 
+ अनुसार, अपने स्थानीय पंचांग 
+ से मिला लें।\nhttps://dharmikkathamrit.github.io/tyoha
+ r-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल देव दीपावली
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-12-03-7f9e52f5@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+SUMMARY:विवाह पंचमी
+DESCRIPTION:विवाह पंचमी। कथा: https://www.youtu
+ be.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग क
+ े अनुसार, अपने स्थानीय पंचां
+ ग से मिला लें।\nhttps://dharmikkathamrit.github.io/t
+ yohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल विवाह पंचमी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-12-09-5525a901@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
+SUMMARY:गीता जयंती
+DESCRIPTION:गीता जयंती। कथा: https://youtu.be/rd-
+ LpisaUpE\nद्रिक पंचांग के अनुसार, 
+ अपने स्थानीय पंचांग से मिला 
+ लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://youtu.be/rd-LpisaUpE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल गीता जयंती
+END:VALARM
+END:VEVENT
+END:VCALENDAR
