@@ -1,0 +1,26 @@
+/* Design 6 (the user, 24 Nov): option 1's colours, option 3's type: Rozha One headings and numbers, Hind text. */
+@import url("https://fonts.googleapis.com/css2?family=Rozha+One&family=Hind:wght@500;700&display=swap");
+.cal{--g:#0e6b3a;--gl:#9bd3b0;--pk:#c2185b;--pkl:#fff0f5;--ink:#3a1a00;--tag:#8a5a2a;font-family:"Hind",sans-serif;color:var(--ink)}
+.cal .hero{text-align:center;padding:8px 0 4px}
+.cal h1{font-family:"Rozha One",serif;font-weight:400;color:var(--g);font-size:clamp(44px,9vw,72px);margin:4px 0 0;line-height:1.1}
+.cal .sub{font-weight:700;color:#7a3a00;margin:4px 0}
+.cal .score{font-family:"Rozha One",serif;color:var(--g);font-size:26px;margin:6px 0}.cal .score b{font-weight:400;font-size:34px}
+.cal p.next{display:inline-block;background:var(--g);color:#fff;border-radius:12px;padding:4px 14px;font-weight:700}
+.cal .btn.add{background:var(--g);color:#fff;font-size:20px;padding:12px 22px;border-radius:14px;display:inline-block;text-decoration:none;font-weight:700}
+.cal .hint{font-size:14px;color:#6a5a40;margin:6px auto 12px;max-width:520px}
+.cal .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.cal .mc{background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 3px 10px rgba(60,20,0,.14);padding-bottom:8px}
+.cal .pic{height:110px;background-size:cover}
+.cal .mc h2{font-family:"Rozha One",serif;font-weight:400;display:table;margin:-20px auto 0;background:var(--g);color:#fff;font-size:22px;padding:0 14px;border-radius:10px;position:relative}
+.cal .tag{text-align:center;font-size:13px;color:var(--tag);margin:2px 0 6px}
+.cal ul{list-style:none;margin:0;padding:0 8px;display:grid;gap:6px}
+.cal .t{display:flex;align-items:center;gap:8px;border:2.5px solid var(--gl);border-radius:12px;padding:3px 8px;background:#fbfffc}
+.cal .t.big{border-color:var(--pk);background:var(--pkl)}.cal .t.big .d,.cal .t.big .n{color:var(--pk)}
+.cal .t.upcoming{box-shadow:0 0 0 3px #ffd23f}
+.cal .ck{width:30px;height:30px;border-radius:50%;border:3px solid var(--g);background:#fff;flex:none;cursor:pointer;padding:0}
+.cal .t.big .ck{border-color:var(--pk)}.cal .t.on .ck{background:var(--g)}.cal .t.big.on .ck{background:var(--pk)}
+.cal .t.on .ck::after{content:"✓";color:#fff;font-weight:700;font-size:18px;line-height:24px}
+.cal .d{font-family:"Rozha One",serif;font-size:24px;color:var(--g);min-width:30px}
+.cal .n{font-weight:700;flex:1;line-height:1.15}.cal .n small{display:block;font-weight:500;font-size:12px;color:var(--tag)}
+.cal .k{font-size:13px;font-weight:700;color:var(--g);border:1.5px solid var(--g);border-radius:8px;padding:1px 8px;text-decoration:none}
+.cal .note{font-size:14px;color:#5a4a30;margin:14px 0}.cal .en{font-size:14px;color:#555}

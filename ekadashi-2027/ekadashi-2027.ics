@@ -1,0 +1,434 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dharmik Kathamrit//Ekadashi 2027//HI
+CALSCALE:GREGORIAN
+X-WR-CALNAME:एकादशी 2027, धार्मिक कथामृ
+ त
+BEGIN:VEVENT
+UID:ekadashi-2027-01-03@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:सफला एकादशी व्रत
+DESCRIPTION:आज सफला एकादशी है। कथा स
+ ुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nपू
+ रा कैलेंडर: https://dharmikkathamrit.github.io/ekadashi-
+ 2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल सफला एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-01-18@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:पौष पुत्रदा एकादशी व्रत
+DESCRIPTION:आज पौष पुत्रदा एकादशी ह
+ ै। कथा सुनें: https://www.youtube.com/playlist?list=PL
+ cXYNDfW2rYQ\nपूरा कैलेंडर: https://dharmikkathamrit.
+ github.io/ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल पौष पुत्रदा एकादशी ह
+ ै
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-02-02@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:षटतिला एकादशी व्रत
+DESCRIPTION:आज षटतिला एकादशी है। कथ
+ ा सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\n
+ पूरा कैलेंडर: https://dharmikkathamrit.github.io/eka
+ dashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल षटतिला एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-02-17@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:जया एकादशी व्रत
+DESCRIPTION:आज जया एकादशी है। कथा सु
+ नें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nपूर
+ ा कैलेंडर: https://dharmikkathamrit.github.io/ekadashi-202
+ 7/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल जया एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-03-04@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:विजया एकादशी व्रत
+DESCRIPTION:आज विजया एकादशी है। कथा 
+ सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nप
+ ूरा कैलेंडर: https://dharmikkathamrit.github.io/ekadas
+ hi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल विजया एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-03-18@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:आमलकी एकादशी व्रत
+DESCRIPTION:आज आमलकी एकादशी है। कथा 
+ सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nप
+ ूरा कैलेंडर: https://dharmikkathamrit.github.io/ekadas
+ hi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल आमलकी एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-04-02@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:पापमोचनी एकादशी व्रत
+DESCRIPTION:आज पापमोचनी एकादशी है। 
+ कथा सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW
+ 2rYQ\nपूरा कैलेंडर: https://dharmikkathamrit.github.
+ io/ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल पापमोचनी एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-04-17@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:कामदा एकादशी व्रत
+DESCRIPTION:आज कामदा एकादशी है। कथा 
+ सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nप
+ ूरा कैलेंडर: https://dharmikkathamrit.github.io/ekadas
+ hi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल कामदा एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-05-02@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:वरूथिनी एकादशी व्रत
+DESCRIPTION:आज वरूथिनी एकादशी है। क
+ था सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rY
+ Q\nपूरा कैलेंडर: https://dharmikkathamrit.github.io/
+ ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल वरूथिनी एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-05-16@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:मोहिनी एकादशी व्रत
+DESCRIPTION:आज मोहिनी एकादशी है। कथ
+ ा सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\n
+ पूरा कैलेंडर: https://dharmikkathamrit.github.io/eka
+ dashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल मोहिनी एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-06-01@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:अपरा एकादशी व्रत
+DESCRIPTION:आज अपरा एकादशी है। कथा स
+ ुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nपू
+ रा कैलेंडर: https://dharmikkathamrit.github.io/ekadashi-
+ 2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल अपरा एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-06-14@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:निर्जला एकादशी व्रत
+DESCRIPTION:आज निर्जला एकादशी है। क
+ था सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rY
+ Q\nपूरा कैलेंडर: https://dharmikkathamrit.github.io/
+ ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल निर्जला एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-06-30@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:योगिनी एकादशी व्रत
+DESCRIPTION:आज योगिनी एकादशी है। कथ
+ ा सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\n
+ पूरा कैलेंडर: https://dharmikkathamrit.github.io/eka
+ dashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल योगिनी एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-07-14@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:देवशयनी एकादशी व्रत
+DESCRIPTION:आज देवशयनी एकादशी है। क
+ था सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rY
+ Q\nपूरा कैलेंडर: https://dharmikkathamrit.github.io/
+ ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल देवशयनी एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-07-29@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:कामिका एकादशी व्रत
+DESCRIPTION:आज कामिका एकादशी है। कथ
+ ा सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\n
+ पूरा कैलेंडर: https://dharmikkathamrit.github.io/eka
+ dashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल कामिका एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-08-12@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:श्रावण पुत्रदा एकादशी व्
+ रत
+DESCRIPTION:आज श्रावण पुत्रदा एकादश
+ ी है। कथा सुनें: https://www.youtube.com/playlist?
+ list=PLcXYNDfW2rYQ\nपूरा कैलेंडर: https://dharmikkat
+ hamrit.github.io/ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल श्रावण पुत्रदा एकादश
+ ी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-08-28@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:अजा एकादशी व्रत
+DESCRIPTION:आज अजा एकादशी है। कथा सु
+ नें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nपूर
+ ा कैलेंडर: https://dharmikkathamrit.github.io/ekadashi-202
+ 7/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल अजा एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-09-11@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:परिवर्तिनी एकादशी व्रत
+DESCRIPTION:आज परिवर्तिनी एकादशी है
+ । कथा सुनें: https://www.youtube.com/playlist?list=PLcXY
+ NDfW2rYQ\nपूरा कैलेंडर: https://dharmikkathamrit.git
+ hub.io/ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल परिवर्तिनी एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-09-26@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:इंदिरा एकादशी व्रत
+DESCRIPTION:आज इंदिरा एकादशी है। कथ
+ ा सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\n
+ पूरा कैलेंडर: https://dharmikkathamrit.github.io/eka
+ dashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल इंदिरा एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-10-11@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:पापांकुशा एकादशी व्रत
+DESCRIPTION:आज पापांकुशा एकादशी है।
+  कथा सुनें: https://www.youtube.com/playlist?list=PLcXYNDf
+ W2rYQ\nपूरा कैलेंडर: https://dharmikkathamrit.github
+ .io/ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल पापांकुशा एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-10-25@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:रमा एकादशी व्रत
+DESCRIPTION:आज रमा एकादशी है। कथा सु
+ नें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nपूर
+ ा कैलेंडर: https://dharmikkathamrit.github.io/ekadashi-202
+ 7/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल रमा एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-11-10@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:देवउठनी एकादशी व्रत
+DESCRIPTION:आज देवउठनी एकादशी है। क
+ था सुनें: https://youtu.be/rd-LpisaUpE\nपूरा कै
+ लेंडर: https://dharmikkathamrit.github.io/ekadashi-2027/
+URL:https://youtu.be/rd-LpisaUpE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल देवउठनी एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-11-24@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:उत्पन्ना एकादशी व्रत
+DESCRIPTION:आज उत्पन्ना एकादशी है। 
+ कथा सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW
+ 2rYQ\nपूरा कैलेंडर: https://dharmikkathamrit.github.
+ io/ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल उत्पन्ना एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-12-09@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
+SUMMARY:मोक्षदा एकादशी व्रत
+DESCRIPTION:आज मोक्षदा एकादशी है। क
+ था सुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rY
+ Q\nपूरा कैलेंडर: https://dharmikkathamrit.github.io/
+ ekadashi-2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल मोक्षदा एकादशी है
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ekadashi-2027-12-23@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20271224
+SUMMARY:सफला एकादशी व्रत
+DESCRIPTION:आज सफला एकादशी है। कथा स
+ ुनें: https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ\nपू
+ रा कैलेंडर: https://dharmikkathamrit.github.io/ekadashi-
+ 2027/
+URL:https://www.youtube.com/playlist?list=PLcXYNDfW2rYQ
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल सफला एकादशी है
+END:VALARM
+END:VEVENT
+END:VCALENDAR
