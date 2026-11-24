@@ -170,12 +170,12 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:हनुमान जयंती
-DESCRIPTION:हनुमान जयंती (कुछ प्रदे
- शों में अलग तिथि)। कथा: https://www.yout
- ube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
- के अनुसार, अपने स्थानीय पंचा
- ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
- o/tyohar-2027/
+DESCRIPTION:हनुमान जयंती (प्रदेश के 
+ अनुसार तिथि अलग हो सकती है)। 
+ कथा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्र
+ िक पंचांग के अनुसार, अपने स्
+ थानीय पंचांग से मिला लें।\nhttps
+ ://dharmikkathamrit.github.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -207,11 +207,12 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:वट सावित्री व्रत
-DESCRIPTION:वट सावित्री व्रत (वट पूर
- ्णिमा 18 जून)। कथा: https://www.youtube.com/playli
- st?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अनु
- सार, अपने स्थानीय पंचांग से 
- मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+DESCRIPTION:वट सावित्री व्रत (प्रदे
+ श के अनुसार तिथि अलग हो सकती 
+ है)। कथा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\
+ nद्रिक पंचांग के अनुसार, अपन
+ े स्थानीय पंचांग से मिला लें
+ ।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -252,6 +253,25 @@ BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT6H
 DESCRIPTION:कल निर्जला एकादशी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-06-18-91679b3c@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:वट पूर्णिमा व्रत
+DESCRIPTION:वट पूर्णिमा व्रत (प्रदे
+ श के अनुसार तिथि अलग हो सकती 
+ है)। कथा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\
+ nद्रिक पंचांग के अनुसार, अपन
+ े स्थानीय पंचांग से मिला लें
+ ।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल वट पूर्णिमा व्रत
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +333,12 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 SUMMARY:सावन आरंभ
-DESCRIPTION:सावन आरंभ (उत्तर भारत)। क
- था: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रि
- क पंचांग के अनुसार, अपने स्थ
- ानीय पंचांग से मिला लें।\nhttps://
- dharmikkathamrit.github.io/tyohar-2027/
+DESCRIPTION:सावन आरंभ (प्रदेश के अनु
+ सार तिथि अलग हो सकती है)। कथा:
+  https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक प
+ ंचांग के अनुसार, अपने स्थानी
+ य पंचांग से मिला लें।\nhttps://dharmikka
+ thamrit.github.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -349,12 +370,12 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:नाग पंचमी
-DESCRIPTION:नाग पंचमी (कुछ प्रदेशों 
- में अलग तिथि)। कथा: https://www.youtube.com/pl
- aylist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अ
- नुसार, अपने स्थानीय पंचांग स
- े मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2
- 027/
+DESCRIPTION:नाग पंचमी (प्रदेश के अनु
+ सार तिथि अलग हो सकती है)। कथा:
+  https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक प
+ ंचांग के अनुसार, अपने स्थानी
+ य पंचांग से मिला लें।\nhttps://dharmikka
+ thamrit.github.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -386,11 +407,12 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:जन्माष्टमी
-DESCRIPTION:जन्माष्टमी (केरल में 24 अ
- गस्त)। कथा: https://www.youtube.com/playlist?list=PLFDj_sN
- gDpz0\nद्रिक पंचांग के अनुसार, अ
- पने स्थानीय पंचांग से मिला ल
- ें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+DESCRIPTION:जन्माष्टमी (प्रदेश के अ
+ नुसार तिथि अलग हो सकती है)। क
+ था: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रि
+ क पंचांग के अनुसार, अपने स्थ
+ ानीय पंचांग से मिला लें।\nhttps://
+ dharmikkathamrit.github.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -530,11 +552,12 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 SUMMARY:दशहरा
-DESCRIPTION:दशहरा (बंगाल और मैसूर मे
- ं 10 अक्टूबर)। कथा: https://www.youtube.com/playli
- st?list=PLFDj_sNgDpz0\nद्रिक पंचांग के अनु
- सार, अपने स्थानीय पंचांग से 
- मिला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+DESCRIPTION:दशहरा (प्रदेश के अनुसार 
+ तिथि अलग हो सकती है)। कथा: https://w
+ ww.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचा
+ ंग के अनुसार, अपने स्थानीय प
+ ंचांग से मिला लें।\nhttps://dharmikkathamrit
+ .github.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -548,12 +571,12 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20271014
 DTEND;VALUE=DATE:20271015
 SUMMARY:शरद पूर्णिमा
-DESCRIPTION:शरद पूर्णिमा (आश्विन पू
- र्णिमा 15 अक्टूबर)। कथा: https://www.you
- tube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग 
- के अनुसार, अपने स्थानीय पंचा
- ंग से मिला लें।\nhttps://dharmikkathamrit.github.i
- o/tyohar-2027/
+DESCRIPTION:शरद पूर्णिमा (एक से ज़्य
+ ादा दिन पड़ सकता है)। कथा: https://w
+ ww.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचा
+ ंग के अनुसार, अपने स्थानीय प
+ ंचांग से मिला लें।\nhttps://dharmikkathamrit
+ .github.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -620,11 +643,12 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:नरक चतुर्दशी
-DESCRIPTION:नरक चतुर्दशी (काली चौदस 2
- 7 अक्टूबर)। कथा: https://www.youtube.com/playlist?li
- st=PLFDj_sNgDpz0\nद्रिक पंचांग के अनुस
- ार, अपने स्थानीय पंचांग से म
- िला लें।\nhttps://dharmikkathamrit.github.io/tyohar-2027/
+DESCRIPTION:नरक चतुर्दशी (प्रदेश के 
+ अनुसार तिथि अलग हो सकती है)। 
+ कथा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्र
+ िक पंचांग के अनुसार, अपने स्
+ थानीय पंचांग से मिला लें।\nhttps
+ ://dharmikkathamrit.github.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -743,17 +767,36 @@ DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:देव दीपावली
-DESCRIPTION:देव दीपावली (कार्तिक पू
- र्णिमा 14 नवंबर)। कथा: https://www.youtube.c
- om/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचांग के 
- अनुसार, अपने स्थानीय पंचांग 
- से मिला लें।\nhttps://dharmikkathamrit.github.io/tyoha
- r-2027/
+DESCRIPTION:देव दीपावली (एक से ज़्या
+ दा दिन पड़ सकता है)। कथा: https://www.
+ youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक पंचां
+ ग के अनुसार, अपने स्थानीय पं
+ चांग से मिला लें।\nhttps://dharmikkathamrit.gi
+ thub.io/tyohar-2027/
 URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT6H
 DESCRIPTION:कल देव दीपावली
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-tyohar-2027-2027-11-14-390a78b0@dharmikkathamrit.github.io
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:कार्तिक पूर्णिमा
+DESCRIPTION:कार्तिक पूर्णिमा (एक से 
+ ज़्यादा दिन पड़ सकता है)। कथ
+ ा: https://www.youtube.com/playlist?list=PLFDj_sNgDpz0\nद्रिक 
+ पंचांग के अनुसार, अपने स्थान
+ ीय पंचांग से मिला लें।\nhttps://dharmi
+ kkathamrit.github.io/tyohar-2027/
+URL:https://www.youtube.com/playlist?list=PLFDj_sNgDpz0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT6H
+DESCRIPTION:कल कार्तिक पूर्णिमा
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT

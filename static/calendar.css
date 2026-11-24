@@ -36,7 +36,9 @@ body:has(.cal) .channel .name{margin:0}
 .cal .note{font-size:14px;color:#5a4a30;margin:14px 0}.cal .en{font-size:14px;color:#555}
 /* careful wording (the user, 24 Nov): the caveat beside the dates and the star notes on split or regional dates */
 .cal .cav{display:block;font-weight:500;font-size:12.5px;color:#6a5a40;margin-top:2px}
-.cal .n em{display:block;font-style:normal;font-weight:500;font-size:11.5px;color:#9a3412}
 /* Purnima light as the full moon, Amavasya dark as the new moon */
 .cal .t.kP{background:#fffbea;border-color:#f0c75e}.cal .t.kP .d{color:#a16207}
 .cal .t.kA{background:#eef0f4;border-color:#9aa3b2}.cal .t.kA .d{color:#334155}.cal .t.kA .ck{border-color:#334155}.cal .t.kA.on .ck{background:#334155}
+/* legend for ★ (more than one day) and ◆ (by region), shown once, never inside the boxes (the user, 24 Nov) */
+.cal .legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:#5a3a10;margin:6px 0 0}
+.cal .legend b,.cal .n sup{color:#c2410c;font-weight:700}.cal .n sup{font-size:.8em;margin-left:2px}
